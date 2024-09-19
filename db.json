@@ -1,0 +1,216 @@
+{
+    "Test_Type": [
+        {
+            "id": 1,
+            "name": "Specification Test"
+        },
+        {
+            "id": 1,
+            "name": "Electronic Test"
+        },
+        {
+            "id": 1,
+            "name": "Despatch Test"
+        }
+    ],
+    "User": [
+        {
+            "id": 1,
+            "userId": "#TW1500001",
+            "name": "Marie Prohaska",
+            "img": "assets/images/users/avatar-2.png",
+            "designation": "Graphic Designer",
+            "location": "United Kingdom",
+            "email": "prohaska@tailwick.com",
+            "phoneNumber": "853 565 9802"
+        },
+        {
+            "id": 2,
+            "userId": "#TW1500002",
+            "name": "Jaqueline Hammes",
+            "img": "assets/images/users/avatar-3.png",
+            "designation": "ASP.Net Developer",
+            "location": "Brazil",
+            "email": "jaqueline@tailwick.com",
+            "phoneNumber": "546 6334 586"
+        },
+        {
+            "id": 3,
+            "userId": "#TW1500003",
+            "name": "Marlene Hirthe",
+            "img": "assets/images/users/avatar-4.png",
+            "designation": "Angular Developer",
+            "location": "Spain",
+            "email": "marlene@tailwick.com",
+            "phoneNumber": "141 654 9876"
+        },
+        {
+            "id": 4,
+            "userId": "#TW1500004",
+            "name": "Akeem Paucek",
+            "designation": "Jr. Developer",
+            "location": "Mexico",
+            "email": "akeem.p@tailwick.com",
+            "phoneNumber": "783 962 3972"
+        },
+        {
+            "id": 5,
+            "userId": "#TW1500005",
+            "name": "Stephon Trantow",
+            "img": "assets/images/users/avatar-6.png",
+            "designation": "Full Stack Developer",
+            "location": "Spain",
+            "email": "akeem.p@tailwick.com",
+            "phoneNumber": "032 126 5833"
+        },
+        {
+            "id": 6,
+            "userId": "#TW1500006",
+            "name": "Domenic Tromp",
+            "img": "assets/images/users/avatar-7.png",
+            "designation": "Team Leader",
+            "location": "Germany",
+            "email": "domenic@tailwick.com",
+            "phoneNumber": "612 6088 735"
+        },
+        {
+            "id": 7,
+            "userId": "#TW1500007",
+            "name": "Ethel Corwin",
+            "img": "assets/images/users/avatar-8.png",
+            "designation": "Web Designer",
+            "location": "Italy",
+            "email": "ecorwin@tailwick.com",
+            "phoneNumber": "216 897 4978"
+        },
+        {
+            "id": 8,
+            "userId": "#TW1500008",
+            "name": "Rickie Cremin",
+            "img": "assets/images/users/avatar-9.png",
+            "designation": "Web Designer",
+            "location": "France",
+            "email": "ecorwin@tailwick.com",
+            "phoneNumber": "388 946 3889"
+        },
+        {
+            "id": 9,
+            "userId": "#TW1500009",
+            "name": "Reagan Larson",
+            "img": "assets/images/users/avatar-1.png",
+            "designation": "Team Leader",
+            "location": "Denmark",
+            "email": "reagan@tailwick.com",
+            "phoneNumber": "612 6088 735"
+        },
+        {
+            "id": 10,
+            "userId": "#TW1500010",
+            "name": "Glennie Langosh",
+            "img": "assets/images/users/avatar-9.png",
+            "designation": "Project Manager",
+            "location": "Germany",
+            "email": "glennie@tailwick.com",
+            "phoneNumber": "357 716 8847"
+        },
+        {
+            "id": 1,
+            "userId": "#TW1500001",
+            "name": "Marie Prohaska",
+            "img": "assets/images/users/avatar-2.png",
+            "designation": "Graphic Designer",
+            "location": "United Kingdom",
+            "email": "prohaska@tailwick.com",
+            "phoneNumber": "853 565 9802"
+        },
+        {
+            "id": 2,
+            "userId": "#TW1500002",
+            "name": "Jaqueline Hammes",
+            "img": "assets/images/users/avatar-3.png",
+            "designation": "ASP.Net Developer",
+            "location": "Brazil",
+            "email": "jaqueline@tailwick.com",
+            "phoneNumber": "546 6334 586"
+        },
+        {
+            "id": 3,
+            "userId": "#TW1500003",
+            "name": "Marlene Hirthe",
+            "img": "assets/images/users/avatar-4.png",
+            "designation": "Angular Developer",
+            "location": "Spain",
+            "email": "marlene@tailwick.com",
+            "phoneNumber": "141 654 9876"
+        },
+        {
+            "id": 4,
+            "userId": "#TW1500004",
+            "name": "Akeem Paucek",
+            "designation": "Jr. Developer",
+            "location": "Mexico",
+            "email": "akeem.p@tailwick.com",
+            "phoneNumber": "783 962 3972"
+        },
+        {
+            "id": 5,
+            "userId": "#TW1500005",
+            "name": "Stephon Trantow",
+            "img": "assets/images/users/avatar-6.png",
+            "designation": "Full Stack Developer",
+            "location": "Spain",
+            "email": "akeem.p@tailwick.com",
+            "phoneNumber": "032 126 5833"
+        },
+        {
+            "id": 6,
+            "userId": "#TW1500006",
+            "name": "Domenic Tromp",
+            "img": "assets/images/users/avatar-7.png",
+            "designation": "Team Leader",
+            "location": "Germany",
+            "email": "domenic@tailwick.com",
+            "phoneNumber": "612 6088 735"
+        },
+        {
+            "id": 7,
+            "userId": "#TW1500007",
+            "name": "Ethel Corwin",
+            "img": "assets/images/users/avatar-8.png",
+            "designation": "Web Designer",
+            "location": "Italy",
+            "email": "ecorwin@tailwick.com",
+            "phoneNumber": "216 897 4978"
+        },
+        {
+            "id": 8,
+            "userId": "#TW1500008",
+            "name": "Rickie Cremin",
+            "img": "assets/images/users/avatar-9.png",
+            "designation": "Web Designer",
+            "location": "France",
+            "email": "ecorwin@tailwick.com",
+            "phoneNumber": "388 946 3889"
+        },
+        {
+            "id": 9,
+            "userId": "#TW1500009",
+            "name": "Reagan Larson",
+            "img": "assets/images/users/avatar-1.png",
+            "designation": "Team Leader",
+            "location": "Denmark",
+            "email": "reagan@tailwick.com",
+            "phoneNumber": "612 6088 735"
+        },
+        {
+            "id": 10,
+            "userId": "#TW1500010",
+            "name": "Glennie Langosh",
+            "img": "assets/images/users/avatar-9.png",
+            "designation": "Project Manager",
+            "location": "Germany",
+            "email": "glennie@tailwick.com",
+            "phoneNumber": "357 716 8847"
+        }
+    ]
+}
